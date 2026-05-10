@@ -1,0 +1,13 @@
+<main>
+    @include('livewire.home.header')
+    @include('livewire.home.hero')
+    @include('livewire.home.clients')
+    @include('livewire.home.work')
+    @include('livewire.home.about')
+    @include('livewire.home.services')
+    @include('livewire.home.strategies')
+    @include('livewire.home.contact')
+    @include('livewire.home.location')
+    @include('livewire.home.faq')
+    @include('livewire.home.footer')
+</main>

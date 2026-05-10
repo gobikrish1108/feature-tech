@@ -1,0 +1,1139 @@
+<body class="homepage1-body" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" style="">
+
+    <div class="preloader" style="display: none;">
+        <div class="loading-container">
+            <div class="loading"></div>
+            <div id="loading-icon"><img src="assets/img/logo/favicon.png" alt="UN Digital" style="max-width: 100px; object-fit: contain;"></div>
+        </div>
+    </div>
+
+    <div class="paginacontainer">
+        <div class="progress-wrap">
+            <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+                <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;"></path>
+            </svg>
+        </div>
+    </div>
+    <header>
+    <div class="header-area homepage1 header header-sticky d-none d-lg-block" id="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <nav id="navbar-example2" class="navbar">
+                        <div class="header-elements">
+                            
+                            <div class="site-logo">
+                                <a href="index.html">
+                                    <img src="assets/img/logo/logo.png" alt="UN Digital" style="max-height: 80px; width: auto; mix-blend-mode: multiply; object-fit: contain;">
+                                </a>
+                            </div>
+                            
+                            <div class="main-menu">
+                                <ul>
+                                    <li class="nav-item"><a href="#home" class="nav-link active"><span>Home</span></a></li>
+                                    <li class="nav-item"><a href="#about" class="nav-link"><span>About</span></a></li>
+                                    <li class="nav-item"><a href="#service" class="nav-link"><span>Services</span></a></li>
+                                    <li class="nav-item"><a href="#contact" class="nav-link"><span>Contact</span></a></li>
+                                </ul>
+                            </div>
+                            
+                            <div class="btn-area">
+                                <a href="#contact" class="header-btn1">Free Consultation <span><i class="fa-solid fa-arrow-right"></i></span></a>
+                            </div>
+
+                            <div class="body-overlay"></div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="mobile-header mobile-haeder1 d-block d-lg-none">
+    <div class="container-fluid">
+        <div class="col-12">
+            <div class="mobile-header-elements">
+                <div class="mobile-logo">
+                    <a href="index.html"><img src="assets/img/logo/logo.png" alt="UN Digital"></a>
+                </div>
+                <div class="mobile-nav-icon dots-menu">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mobile-sidebar mobile-sidebar1">
+    <div class="logosicon-area">
+        <div class="logos">
+            <img src="assets/img/logo/logo.png" alt="UN Digital">
+        </div>
+        <div class="menu-close">
+            <i class="fa-solid fa-xmark"></i>
+        </div>
+    </div>
+    
+    <div class="mobile-nav mobile-nav1">
+        <ul class="mobile-nav-list nav-list1">
+            <li class="nav-item hash-has-sub"><a href="#home" class="nav-link active hash-nav"><span>Home</span></a></li>
+            <li class="nav-item hash-has-sub"><a href="#about" class="nav-link hash-nav"><span>About</span></a></li>
+            <li class="nav-item hash-has-sub"><a href="#service" class="nav-link hash-nav"><span>Services</span></a></li>
+            <li class="nav-item hash-has-sub"><a href="#contact" class="nav-link hash-nav"><span>Contact</span></a></li>
+        </ul>
+
+        <div class="allmobilesection hash-has-sub">
+            <a href="#contact" class="header-btn1 hash-nav">Free Consultation <span><i class="fa-solid fa-arrow-right"></i></span></a>
+            
+            <div class="single-footer">
+                <h3>Contact Info</h3>
+                <div class="footer1-contact-info">
+                    <div class="contact-info-single">
+                        <div class="contact-info-icon">
+                            <i class="fa-solid fa-phone-volume"></i>
+                        </div>
+                        <div class="contact-info-text hash-has-sub">
+                            <a href="tel:+919876543210" class="hash-nav">+91 72008622993</a>
+                        </div>
+                    </div>
+
+                    <div class="contact-info-single">
+                        <div class="contact-info-icon">
+                            <i class="fa-solid fa-envelope"></i>
+                        </div>
+                        <div class="contact-info-text hash-has-sub">
+                            <a href="mailto:info@undigital.com" class="hash-nav">udayedward496@gmail.com</a>
+                        </div>
+                    </div>
+
+                    <div class="single-footer">
+                        <h3>Our Location</h3>
+                        <div class="contact-info-single">
+                            <div class="contact-info-icon">
+                                <i class="fa-solid fa-location-dot"></i>
+                            </div>
+                            <div class="contact-info-text hash-has-sub">
+                                <a href="#" class="hash-nav">PC Patti,<br> Theni</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="single-footer">
+                        <h3>Social Links</h3>
+                        <div class="social-links-mobile-menu">
+                            <ul>
+                                <li class="hash-has-sub"><a href="https://www.facebook.com/share/1GBtkK9T43/?mibextid=wwXIfr" class="hash-nav"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li class="hash-has-sub"><a href="https://www.instagram.com/un_digital_marketing?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==" class="hash-nav"><i class="fa-brands fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+   <section class="creative-hero-light" id="home">
+    
+    <div class="hero-bg-grid"></div>
+
+    <div class="container position-relative z-index-2">
+        <div class="row align-items-center min-vh-100 pb-5 pt-5 pt-lg-0">
+            
+            <div class="col-lg-7">
+                <div class="hero-content-wrapper aos-init aos-animate" data-aos="fade-right" data-aos-duration="1200">
+                    <div class="light-badge mb-4">
+                        <i class="fa-solid fa-heart text-danger me-2"></i>Skyrocket Your Sales
+                    </div>
+                    
+                    <h1 class="light-hero-title">
+                        We Make Your Brand <br>
+                        <span class="text-gradient-bold">Go Viral</span>
+                    </h1>
+                    
+                    <p class="light-hero-subtitle mt-4 mb-5">
+                        Welcome to <strong>UN Digital Marketing</strong>. We turn casual scrollers into loyal customers. From viral content creation and community management to high-converting Meta Ads, we make your brand impossible to ignore.
+                    </p>
+                    
+                    <div class="hero-cta-group">
+                        <a href="#contact" class="btn-light-primary">
+                            Boost Your Brand <i class="fa-solid fa-arrow-right-long ms-2"></i>
+                        </a>
+                        <a href="#work" class="btn-light-outline">
+    See Our Work
+</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-5 mt-5 mt-lg-0">
+    <div class="hero-image-wrapper text-center mobile-hero-img aos-init aos-animate" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
+        <img src="assets/img/udhaya.png" alt="UN Digital Marketing Showcase" class="img-fluid" style="mix-blend-mode: multiply; max-width: 100%; object-fit: contain;">
+    </div>
+</div>
+
+        </div>
+    </div>
+</section>
+
+    <div class="premium-client-marquee py-5">
+    <div class="container">
+        <div class="row align-items-center">
+            
+            <div class="col-lg-3 text-center text-lg-start mb-4 mb-lg-0">
+                <div class="marquee-heading">
+                    <p class="mb-0 fw-bold text-uppercase">Our Valuable <br class="d-none d-lg-block"> Clients</p>
+                </div>
+            </div>
+            
+            <div class="col-lg-9">
+                <div class="marquee-multi-row">
+                    
+                    <div class="marquee-track track-left fast">
+                        <img src="assets/img/brand-image-10.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-11.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-12.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-13.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-14.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-10.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-11.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-12.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-13.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-14.png" class="client-logo" alt="Brand">
+                    </div>
+
+                    <div class="marquee-track track-right slow">
+                        <img src="assets/img/brand-image-1.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-2.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-3.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-4.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-6.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-1.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-2.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-3.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-4.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-6.png" class="client-logo" alt="Brand">
+                    </div>
+
+                    <div class="marquee-track track-left medium">
+                        <img src="assets/img/brand-image-19.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-20.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-21.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-22.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-18.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-19.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-20.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-21.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-22.png" class="client-logo" alt="Brand">
+                        <img src="assets/img/brand-image-23.png" class="client-logo" alt="Brand">
+                    </div>
+
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<section id="work" class="sp6">
+    <div class="container-fluid px-0"> 
+        
+        <div class="text-center mb-4 aos-init" data-aos="fade-up">
+            <h2 class="address-title">Our Viral Videos &amp; <span class="text-gradient-bold" style="color:#E1306C;">Results</span>.</h2>
+            
+            <p class="sr-only" style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0;">
+                UN Digital Marketing has generated over 30 million organic views across Instagram reels for our clients. Notable viral successes include videos reaching 12.8 million, 8.7 million, and 5.8 million views, proving our expertise in algorithm-driven content creation.
+            </p>
+
+            <p class="address-footer mt-2">Click any reel to watch it on our official Instagram.</p>
+        </div>
+        
+        </div>
+
+
+        <div class="reels-auto-carousel" id="reelsCarousel">
+            <div class="reels-track" id="reelsTrack">
+                
+                <a href="https://www.instagram.com/reel/DWNWbXWTsfn/?igsh=MTZycnRmbDg5ZXhvaw==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel1.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 1.2M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DUruA7eETxO/?igsh=MWd6NnQ2YzR0NjBmNg==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel2.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 554K</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DOCoJQUAQcC/?igsh=bGR0d3Y1eXY5ZzJv" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel3.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 1.4M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DUhPqVWiDm-/?igsh=MWh4Z3g2czM3dnp6dA==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel4.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 2.4M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DVsBH--kxvA/?igsh=MTYzeXU4MWM5YW1yaA==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel5.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 2.6M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DTT9HKKCEt_/?igsh=MXg4eGZ0cDQzdnQwaw==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel6.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 3.3M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DUR7XN_j1oT/?igsh=d3k3MXplYTRrenYz" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel7.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 5.8M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DV7ZUymkx7y/?igsh=cnl0NWNrYzE5a3J6" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel8.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 4.5M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DRJIfVdiLZK/?igsh=azBnODVzcGg5d2Jk" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel9.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 5.3M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/DCVixHLvtfd/?igsh=anAyMGwyZzRlOThr" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel10.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 8.7M</div>
+                </a>
+
+                <a href="https://www.instagram.com/reel/C--RuNaNP87/?igsh=bWFvajd6aTB2cnpj" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel11.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 12.8M</div>
+                </a>
+
+            <a href="https://www.instagram.com/reel/DWNWbXWTsfn/?igsh=MTZycnRmbDg5ZXhvaw==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel1.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 1.2M</div>
+                </a><a href="https://www.instagram.com/reel/DUruA7eETxO/?igsh=MWd6NnQ2YzR0NjBmNg==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel2.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 554K</div>
+                </a><a href="https://www.instagram.com/reel/DOCoJQUAQcC/?igsh=bGR0d3Y1eXY5ZzJv" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel3.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 1.4M</div>
+                </a><a href="https://www.instagram.com/reel/DUhPqVWiDm-/?igsh=MWh4Z3g2czM3dnp6dA==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel4.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 2.4M</div>
+                </a><a href="https://www.instagram.com/reel/DVsBH--kxvA/?igsh=MTYzeXU4MWM5YW1yaA==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel5.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 2.6M</div>
+                </a><a href="https://www.instagram.com/reel/DTT9HKKCEt_/?igsh=MXg4eGZ0cDQzdnQwaw==" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel6.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 3.3M</div>
+                </a><a href="https://www.instagram.com/reel/DUR7XN_j1oT/?igsh=d3k3MXplYTRrenYz" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel7.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 5.8M</div>
+                </a><a href="https://www.instagram.com/reel/DV7ZUymkx7y/?igsh=cnl0NWNrYzE5a3J6" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel8.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 4.5M</div>
+                </a><a href="https://www.instagram.com/reel/DRJIfVdiLZK/?igsh=azBnODVzcGg5d2Jk" target="_blank" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel9.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 5.3M</div>
+                </a><a href="https://www.instagram.com/reel/DCVixHLvtfd/?igsh=anAyMGwyZzRlOThr" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel10.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 8.7M</div>
+                </a><a href="https://www.instagram.com/reel/C--RuNaNP87/?igsh=bWFvajd6aTB2cnpj" class="compact-reel-card">
+                    <video class="reel-video" loop="" muted="" playsinline="" preload="none">
+                        <source src="assets/vid/reel11.mp4" type="video/mp4">
+                    </video>
+                    <div class="reel-overlay"></div>
+                    <div class="play-btn-glass"><i class="fa-brands fa-instagram"></i></div>
+                    <div class="reel-stats"><i class="fa-solid fa-eye"></i> 12.8M</div>
+                </a></div>
+        </div>
+    
+</section>
+
+    <div class="all-section-bg" style="background-image: url(assets/img/bg/pages-bg1.png); background-repeat: no-repeat; background-size: cover;">
+
+        <div class="about-creative-section sp6" id="about">
+            <div class="container relative-container">
+                <img src="assets/img/elements/star1.png" alt="Star" class="deco-star float-anim">
+
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-lg-8 col-md-10 z-index-2">
+                        <div class="glass-content-card text-center aos-init" data-aos="fade-up" data-aos-duration="1000">
+                            
+                            <h2 class="gradient-heading">Theni's No.1 Digital Marketing Agency.</h2>
+                            
+                            <p class="mx-auto" style="max-width: 750px;">
+                                Welcome to <strong>UN Digital Marketing</strong>. We elevate your digital presence through highly creative strategies and engaging, high-impact content. Our mission is to help brands connect authentically with their target audience, scale their reach, and achieve measurable marketing goals with confidence.
+                            </p>
+                            
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+</div>
+
+   <div class="all-section-bg" style="background-image: url(assets/img/bg/pages-bg1.png); background-repeat: no-repeat; background-size: cover;">
+
+   <div class="about-creative-section sp6" id="about">
+    <div class="container relative-container">
+        <img src="assets/img/elements/star1.png" alt="Star" class="deco-star float-anim">
+
+        <section id="service" class="services-section py-5">
+    <div class="container">
+        
+        <div class="row mb-5">
+            <div class="col-lg-12 text-center">
+                <div class="service-header-area heading2">
+                    <img src="assets/img/elements/star2.png" alt="" class="star2 keyframe5">
+                    <img src="assets/img/elements/star3.png" alt="" class="star3 keyframe5">
+                    <h2 class="text-anime-style-3 fw-bold" style="perspective: 400px;"><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">H</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">g</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">h</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">-</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">I</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">m</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">p</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">c</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">t</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">D</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">g</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">t</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">l</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">S</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">r</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">v</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">c</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">s</div></div> </div><div class="split-line" style="display: block; text-align: center; position: relative;"><div style="position:relative;display:inline-block;"> <div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">T</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">o</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">S</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">c</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">a</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">l</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">e</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">Y</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">o</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">r</div></div> <div style="position:relative;display:inline-block;"><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">B</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">u</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">s</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">i</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">n</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">e</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">s</div><div style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">s</div></div></div></h2>
+                    <p data-aos="fade-up" data-aos-duration="1000" class="text-muted mt-3 aos-init">
+                        Stop blending in. We provide proven, results-driven marketing solutions <br class="d-md-block d-none"> designed to increase your revenue and dominate your market.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        </div>
+</section>
+
+        <div class="service-creative-grid">
+            
+            <div class="creative-service-card card-pink aos-init" data-aos="fade-up" data-aos-duration="800">
+                <div class="premium-icon-box">
+                    <i class="fa-solid fa-bullhorn"></i>
+                </div>
+                <a href="service1.html" class="card-title">Social Media Marketing</a>
+                <p>Turn casual scrollers into loyal customers. We build engaged communities and create authentic, shareable content that makes your brand impossible to ignore.</p>
+            </div>
+
+            <div class="creative-service-card card-purple aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
+                <div class="premium-icon-box">
+                    <i class="fa-solid fa-laptop-code"></i>
+                </div>
+                <a href="service1.html" class="card-title">Custom Web Development</a>
+                <p>Your website is your 24/7 digital storefront. We build lightning-fast, mobile-responsive websites designed specifically to capture leads and drive sales.</p>
+            </div>
+
+            <div class="creative-service-card card-yellow aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                <div class="premium-icon-box">
+                    <i class="fa-solid fa-bullseye"></i>
+                </div>
+                <a href="service1.html" class="card-title">Meta &amp; Google Ads</a>
+                <p>Stop guessing with your ad spend. As Theni's leading Meta Ads and Google Ads specialists, we launch precision-targeted advertising campaigns that put your local or e-commerce business directly in front of people ready to buy.</p>
+            </div>
+
+            <div class="creative-service-card card-green aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                <div class="premium-icon-box">
+                    <i class="fa-solid fa-chart-line"></i>
+                </div>
+                <a href="service1.html" class="card-title">Search Engine Optimization</a>
+                <p>Get found first. We optimize your digital presence so you rank higher on Google, outshine your competitors, and attract consistent, free organic traffic.</p>
+            </div>
+
+            <div class="creative-service-card card-orange aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                <div class="premium-icon-box">
+                    <i class="fa-solid fa-users-gear"></i>
+                </div>
+                <a href="service1.html" class="card-title">CRM Solutions</a>
+                <p>Build stronger relationships. We implement and optimize CRM systems to track leads, nurture prospects, and maximize customer lifetime value effortlessly.</p>
+            </div>
+
+            <div class="creative-service-card card-blue aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="500">
+                <div class="premium-icon-box">
+                    <i class="fa-solid fa-robot"></i>
+                </div>
+                <a href="service1.html" class="card-title">Business Automation</a>
+                <p>Work smarter, not harder. We build intelligent automated workflows that save you hours of manual work and ensure no lead ever falls through the cracks.</p>
+            </div>
+
+            <div class="creative-service-card card-indigo aos-init" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600">
+                <div class="premium-icon-box">
+                    <i class="fa-solid fa-pen-nib"></i>
+                </div>
+                <a href="service1.html" class="card-title">Content Marketing</a>
+                <p>Tell your story effectively. We create compelling, value-driven content that establishes your authority, builds trust, and drives profitable customer action.</p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+        <div class="creative-vision-strategy sp6" id="vision-strategy">
+    <div class="container position-relative">
+        
+        <div class="glow-blob blob-1"></div>
+        <div class="glow-blob blob-2"></div>
+
+        <div class="row align-items-center">
+            
+            <div class="col-lg-5 mb-5 mb-lg-0 z-index-2 aos-init" data-aos="fade-up" data-aos-duration="1000">
+                <div class="vision-luminous-card">
+                    <div class="card-watermark"><i class="fa-solid fa-rocket"></i></div>
+                    <div class="icon-box-light mb-4">
+    <i class="fa-solid fa-lightbulb"></i> 
+</div>
+                    <h3 class="luminous-heading mb-3">Our Vision</h3>
+                    <p class="text-muted-custom">At <strong>UN Digital Marketing</strong>, our vision is to be the ultimate catalyst for your digital success. We envision a digital landscape where every brand we partner with achieves explosive, measurable growth. We aim to set the industry standard for innovative web development, dominating SEO, and high-converting ad campaigns.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-7 z-index-2 aos-init" data-aos="fade-up" data-aos-duration="1200">
+                <div class="strategy-wrapper ps-lg-5">
+                    <div class="section-header mb-5">
+                        <h3 class="luminous-heading">Our Core Strategies</h3>
+                        <p class="text-muted-custom mt-2">We don't just execute; we strategize for ROI. Our approach combines creative branding with hard data to turn clicks into loyal clients.</p>
+                    </div>
+                    
+                    <div class="strategy-cards-container">
+    
+    <div class="strategy-glass-card">
+        <div class="card-number-gradient">01</div>
+        <div class="step-content">
+            <h4>Cinematic Video Production</h4>
+            <p>Leveraging cinema-grade cameras and premium production techniques to craft visually stunning, scroll-stopping content. We build high-retention videos proven to capture attention and generate high-converting leads.</p>
+        </div>
+    </div>
+    
+    <div class="strategy-glass-card staggered-1">
+        <div class="card-number-gradient">02</div>
+        <div class="step-content">
+            <h4>Conversion-First Web Dev</h4>
+            <p>Building fast, mobile-responsive, and visually striking websites designed specifically with the user journey in mind to maximize conversions.</p>
+        </div>
+    </div>
+    
+    <div class="strategy-glass-card staggered-2">
+        <div class="card-number-gradient">03</div>
+        <div class="step-content">
+            <h4>Performance Marketing</h4>
+            <p>Maximizing your ROI through precision-targeted ad campaigns. We utilize data-driven strategies across Meta and Google to scale your customer acquisition and drive measurable, high-intent leads.</p>
+        </div>
+    </div>
+    
+</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+        <section class="premium-agency-contact sp6" id="contact">
+    <div class="container">
+        
+        <div class="row justify-content-center mb-5">
+            <div class="col-lg-8 text-center aos-init" data-aos="fade-up" data-aos-duration="1000">
+                <h2 class="contact-main-heading">Ready to Scale Your Brand?</h2>
+                <p class="contact-sub-heading mt-3">Let’s talk strategy. Reach out to UN Digital Marketing and discover how we can drive explosive growth for your business.</p>
+            </div>
+        </div>
+
+        <div class="agency-contact-wrapper aos-init" data-aos="fade-up" data-aos-duration="1200">
+            <div class="row g-0">
+                
+                <div class="col-lg-5 contact-info-panel">
+                    <div class="info-panel-inner">
+                        <h3 class="panel-title">Contact Information</h3>
+                        <p class="panel-desc mb-5">Fill out the form to connect with our team instantly via WhatsApp.</p>
+
+                        <div class="info-list">
+                            <div class="info-item">
+                                <div class="info-icon"><i class="fa-solid fa-location-dot"></i></div>
+                                <div class="info-text">
+                                    <span>Headquarters</span>
+                                    <p>UN Digital Marketing, Door No:9 2A,Shop No 10<br>Kumuli,Periyakulam Road ,PC Patti,<br>Theni 625531</p>
+                                </div>
+                            </div>
+
+                            <div class="info-item">
+                                <div class="info-icon"><i class="fa-solid fa-phone"></i></div>
+                                <div class="info-text">
+                                    <span>Phone Number</span>
+                                    <p><a href="tel:+9172008622993">+91 7200862993</a></p>
+                                </div>
+                            </div>
+
+                            <div class="info-item">
+                                <div class="info-icon"><i class="fa-solid fa-envelope"></i></div>
+                                <div class="info-text">
+                                    <span>Email Address</span>
+                                    <p><a href="mailto:udayedward496@gmail.com">udayedward496@gmail.com</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="panel-shape"></div>
+                </div>
+                
+                <div class="col-lg-7 contact-form-panel">
+                    <h3 class="form-title mb-4">Send Us A Message</h3>
+                    
+                    <form id="whatsapp-form" class="agency-form">
+                        <div class="row gx-3">
+                            <div class="col-md-6 form-group mb-4">
+                                <label class="agency-label">First Name</label>
+                                <input type="text" id="wa-fname" class="agency-input" placeholder="UN" required="">
+                            </div>
+                            <div class="col-md-6 form-group mb-4">
+                                <label class="agency-label">Last Name</label>
+                                <input type="text" id="wa-lname" class="agency-input" placeholder="Digital Marketing" required="">
+                            </div>
+                            <div class="col-md-6 form-group mb-4">
+                                <label class="agency-label">Email Address</label>
+                                <input type="email" id="wa-email" class="agency-input" placeholder="udayedward496@gmail.com" required="">
+                            </div>
+                            <div class="col-md-6 form-group mb-4">
+                                <label class="agency-label">Phone Number</label>
+                                <input type="tel" id="wa-phone" class="agency-input" placeholder="+91 0000000000" required="">
+                            </div>
+                            <div class="col-12 form-group mb-4">
+                                <label class="agency-label">Your Message</label>
+                                <textarea id="wa-message" class="agency-input agency-textarea" rows="4" placeholder="How can we help you grow?" required=""></textarea>
+                            </div>
+                            <div class="col-12 mt-2">
+
+                                <button type="submit" class="agency-submit-btn">
+
+                                    Get Your Free Consultation <i class="fa-solid fa-arrow-right ms-2"></i>
+
+                                </button>
+
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+            </div>
+        
+    
+
+       <section class="location-section py-5 bg-light" id="location">
+    <div class="container">
+        <div class="row g-4 align-items-stretch">
+            
+            <div class="col-lg-5">
+                <div class="premium-address-card-light h-100">
+                    <h2 class="address-title">Address<span class="brand-dot">.</span></h2>
+                    
+                    <address class="address-details" style="font-style: normal;">
+                        <strong>UN Digital Marketing</strong><br>
+                        Door No:9 2A, Shop No 10<br>
+                        Kumuli, Periyakulam Road,<br>
+                        PC Patti<br>
+                        THENI 625531.
+                    </address>
+                    
+                    <p class="address-footer">
+                        Our door is always open for great minds. Join us at UN Digital, Theni – let's spark something together! Let's talk ideas, strategy, and success.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-7">
+                <div class="premium-map-card-light h-100">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.145655715279!2d77.46865877479365!3d10.004825090100848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0715e007970da7%3A0xebc7b67ef4fdc158!2sUN%20Digital%20Marketing%20Services!5e0!3m2!1sen!2sin!4v1775543508496!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section class="geo-faq-section py-5 bg-white" id="faq">
+            <div class="container">
+                <div class="row justify-content-center mb-4">
+                    <div class="col-lg-8 text-center">
+                        <h2 class="luminous-heading">Frequently Asked Questions</h2>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="faq-item mb-4 p-4 border rounded shadow-sm bg-light">
+                            <h3 class="h5 fw-bold">What is the best digital marketing agency in Theni?</h3>
+                            <p class="mb-0 text-muted">UN Digital Marketing is widely recognized as the leading digital marketing agency in Theni. Based in PC Patti, we specialize in high-converting Meta Ads, organic SEO, and cinematic viral content creation for local and national brands.</p>
+                        </div>
+                        <div class="faq-item mb-4 p-4 border rounded shadow-sm bg-light">
+                            <h3 class="h5 fw-bold">Who handles web development at UN Digital Marketing?</h3>
+                            <p class="mb-0 text-muted">Our expert web development team builds fast, mobile-responsive, and SEO-optimized websites designed specifically for lead generation and business scaling. We utilize modern tech stacks including custom HTML, CSS, JavaScript, and PHP.</p>
+                        </div>
+                        <div class="faq-item mb-4 p-4 border rounded shadow-sm bg-light">
+                            <h3 class="h5 fw-bold">Who provides the best Meta Ads management in Theni?</h3>
+                            <p class="mb-0 text-muted">As Theni's leading Meta Ads and Google Ads specialists, UN Digital Marketing launches precision-targeted advertising campaigns that put your local or e-commerce business directly in front of people ready to buy, maximizing your ROI.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+       
+        <footer class="premium-agency-footer">
+    
+    <div class="footer-gradient-line"></div>
+
+    <div class="container position-relative z-index-2 pt-5 mt-4">
+        <div class="row footer-main-row">
+            
+            <div class="col-lg-5 col-md-12 mb-5 mb-lg-0 pr-lg-5">
+                <a href="#home" class="footer-brand-logo d-inline-block mb-4">
+                    <img src="assets/img/logo/logo.png" alt="UN Digital Marketing" style="max-height: 70px; width: auto; mix-blend-mode: multiply; object-fit: contain;">
+                </a>
+                
+                <p class="footer-about-text">
+                    We are a premier digital marketing agency dedicated to turning casual scrollers into loyal customers. No fluff, no vanity metrics. Just pure strategy and explosive growth.
+                </p>
+                
+                <div class="footer-social-group mt-4">
+                    <li><a href="https://www.facebook.com/share/1GBtkK9T43/?mibextid=wwXIfr"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/un_digital_marketing?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw=="><i class="fa-brands fa-instagram"></i></a></li>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-5 mb-md-0 offset-lg-1">
+                <h4 class="footer-heading">Quick Links</h4>
+                <ul class="footer-link-list">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#service">Our Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <h4 class="footer-heading">Say Hello</h4>
+                <ul class="footer-contact-list">
+                    <li>
+                        <div class="contact-icon"><i class="fa-solid fa-envelope"></i></div>
+                        <a href="mailto:info@undigital.com">udayedward496@gmail.com</a>
+                    </li>
+                    <li>
+                        <div class="contact-icon"><i class="fa-solid fa-phone"></i></div>
+                        <a href="tel:1234567890">+91 72008622993</a>
+                    </li>
+                    <li>
+                        <div class="contact-icon"><i class="fa-solid fa-location-dot"></i></div>
+                        <span>PC Patti, Theni</span>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</footer>
+
+    <script src="assets/js/plugins/bootstrap.min.js"></script>
+    <script src="assets/js/plugins/fontawesome.js"></script>
+    <script src="assets/js/plugins/aos.js"></script>
+    <script src="assets/js/plugins/counter.js"></script>
+    <script src="assets/js/plugins/gsap.min.js"></script>
+    <script src="assets/js/plugins/ScrollTrigger.min.js"></script>
+    <script src="assets/js/plugins/Splitetext.js"></script>
+    <script src="assets/js/plugins/sidebar.js"></script>
+    <script src="assets/js/plugins/magnific-popup.js"></script>
+    <script src="assets/js/plugins/mobilemenu.js"></script>
+    <script src="assets/js/plugins/owlcarousel.min.js"></script>
+    <script src="assets/js/plugins/gsap-animation.js"></script>
+    <script src="assets/js/plugins/nice-select.js"></script>
+    <script src="assets/js/plugins/waypoints.js"></script>
+    <script src="assets/js/plugins/slick-slider.js"></script>
+    <script src="assets/js/plugins/circle-progress.js"></script>
+    <script src="assets/js/main.js"></script>
+
+<script>
+    document.getElementById('whatsapp-form').addEventListener('submit', function(e) {
+        e.preventDefault(); 
+        
+        var fname = document.getElementById('wa-fname').value;
+        var lname = document.getElementById('wa-lname').value;
+        var email = document.getElementById('wa-email').value;
+        var phone = document.getElementById('wa-phone').value;
+        var message = document.getElementById('wa-message').value;
+        
+        var waMessage = "*New Lead from Website!*%0a%0a" +
+                        "*Name:* " + fname + " " + lname + "%0a" +
+                        "*Email:* " + email + "%0a" +
+                        "*Phone:* " + phone + "%0a%0a" +
+                        "*Message:* " + message;
+                        
+        var waNumber = "917200862993"; 
+        
+        window.open("https://wa.me/" + waNumber + "?text=" + waMessage, "_blank");
+        
+        setTimeout(function() {
+            window.location.href = "thanks.html";
+        }, 500);
+    });
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const mobileLinks = document.querySelectorAll('.mobile-sidebar .nav-link, .mobile-sidebar .header-btn1');
+        const closeButton = document.querySelector('.menu-close');
+
+        mobileLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                if (closeButton) {
+                    closeButton.click();
+                }
+            });
+        });
+    });
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const carousel = document.getElementById('reelsCarousel');
+        const track = document.getElementById('reelsTrack');
+        
+        // 1. Create the perfect clone
+        const originalCards = Array.from(track.children);
+        originalCards.forEach(card => {
+            const clone = card.cloneNode(true);
+            track.appendChild(clone);
+        });
+
+        // Identify where the loop starts
+        const firstClone = track.children[originalCards.length];
+        const firstOriginal = track.children[0];
+        
+        let scrollSpeed = 1; 
+        let isHovered = false;
+        let isDragging = false;
+        let startX, scrollLeft;
+
+        // 2. Seamless Auto-Scroll
+        function autoScroll() {
+            if (!isHovered && !isDragging) {
+                carousel.scrollLeft += scrollSpeed;
+                
+                // Calculates the EXACT pixel distance regardless of padding/gaps
+                const resetPoint = firstClone.offsetLeft - firstOriginal.offsetLeft;
+                
+                if (carousel.scrollLeft >= resetPoint) {
+                    carousel.scrollLeft = 0; 
+                }
+            }
+            requestAnimationFrame(autoScroll);
+        }
+        autoScroll();
+
+        // 3. Pause on Hover/Touch
+        carousel.addEventListener('mouseenter', () => isHovered = true);
+        carousel.addEventListener('mouseleave', () => {
+            isHovered = false;
+            isDragging = false;
+        });
+        carousel.addEventListener('touchstart', () => isHovered = true);
+        carousel.addEventListener('touchend', () => {
+            setTimeout(() => isHovered = false, 1500); 
+            isDragging = false;
+        });
+
+        // 4. Drag-to-Scroll Logic
+        const elementsToPreventDrag = carousel.querySelectorAll('a, video, img');
+        elementsToPreventDrag.forEach(el => {
+            el.addEventListener('dragstart', (e) => e.preventDefault());
+        });
+
+        carousel.addEventListener('mousedown', (e) => {
+            isHovered = true;
+            isDragging = false;
+            carousel.style.cursor = 'grabbing';
+            startX = e.pageX - carousel.offsetLeft;
+            scrollLeft = carousel.scrollLeft;
+        });
+
+        carousel.addEventListener('mouseup', () => {
+            isHovered = false;
+            carousel.style.cursor = 'grab';
+            
+            // Loop backward seamlessly if aggressively dragged back
+            const resetPoint = firstClone.offsetLeft - firstOriginal.offsetLeft;
+            if (carousel.scrollLeft <= 0) {
+                carousel.scrollLeft = resetPoint - 10;
+            }
+        });
+
+        carousel.addEventListener('mousemove', (e) => {
+            if (!isHovered || carousel.style.cursor !== 'grabbing') return;
+            e.preventDefault();
+            
+            const x = e.pageX - carousel.offsetLeft;
+            const walk = (x - startX); 
+            
+            if (Math.abs(walk) > 3) {
+                isDragging = true; 
+            }
+            
+            carousel.scrollLeft = scrollLeft - (walk * 2);
+        });
+
+        // Prevent links from firing during a drag
+        const links = carousel.querySelectorAll('a.compact-reel-card');
+        links.forEach(link => {
+            link.addEventListener('click', (e) => {
+                if (isDragging) {
+                    e.preventDefault();
+                }
+            });
+        });
+    });
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const videos = document.querySelectorAll('.reel-video');
+
+        if ('IntersectionObserver' in window) {
+            const videoObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    const video = entry.target;
+                    
+                    if (entry.isIntersecting) {
+                        video.playPromise = video.play();
+                        if (video.playPromise !== undefined) {
+                            video.playPromise.catch(error => {
+                                console.log("Autoplay prevented or interrupted:", error);
+                            });
+                        }
+                    } else {
+                        if (video.playPromise !== undefined) {
+                            video.playPromise.then(() => {
+                                video.pause();
+                            }).catch(error => {
+                                console.log("Pause error:", error);
+                            });
+                        } else {
+                            video.pause();
+                        }
+                    }
+                });
+            }, {
+                threshold: 0.5 
+            });
+
+            videos.forEach(video => {
+                videoObserver.observe(video);
+            });
+        } else {
+            videos.forEach(video => video.setAttribute('autoplay', ''));
+        }
+    });
+</script>
+
+<style>
+@media (max-width: 767px) {
+    
+    /* Stops the entire website from being able to slide left/right */
+    body { overflow-x: hidden !important; }
+
+    /* =========================================
+       1. PERFECTLY CENTERED CONTACT BOXES
+    ========================================= */
+    #contact .agency-contact-wrapper {
+        background: transparent !important;
+        box-shadow: none !important;
+        border: none !important;
+        padding: 0 !important; 
+        margin: 0 auto !important; /* Snaps the wrapper to the dead-center */
+        width: 90% !important; /* Leaves exactly 5% empty space on both the left and right */
+    }
+
+    #contact .row.g-0 {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 20px !important; 
+        margin: 0 !important; 
+        width: 100% !important;
+    }
+
+    /* Snug Blue Box */
+    #contact .contact-info-panel {
+        border-radius: 20px !important;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.15) !important;
+        padding: 30px 20px !important; 
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Snug White Form Box */
+    #contact .contact-form-panel {
+        background-color: #ffffff !important;
+        border-radius: 20px !important;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.08) !important;
+        padding: 30px 20px !important; 
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+
+    /* =========================================
+       2. THE MAGIC FIX FOR THE SPILLING EMAIL
+    ========================================= */
+    .info-item { 
+        margin-bottom: 15px !important; 
+        display: flex !important;
+        align-items: flex-start !important; 
+        width: 100% !important;
+    }
+    
+    .info-text {
+        flex: 1 !important; 
+        min-width: 0 !important; /* CRUCIAL: Stops the long email from pushing the box off-center! */
+    }
+
+    .info-text p, .info-text a { 
+        word-wrap: break-word !important; 
+        word-break: break-word !important; /* Forces the long email to safely wrap */
+        font-size: 0.9rem !important; 
+        line-height: 1.4 !important; 
+        margin: 0 !important; 
+    }
+
+    .info-text p br { display: none !important; }
+    .panel-desc { margin-bottom: 20px !important; font-size: 0.9rem !important; line-height: 1.5 !important; }
+
+    /* =========================================
+       3. PERFECTLY CENTERED ADDRESS & MAP BOXES
+    ========================================= */
+    #location .row {
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 20px !important;
+        margin: 0 auto !important; /* Centers the map and address */
+        width: 90% !important; /* Perfectly matches the width of the contact boxes above */
+    }
+
+    #location .premium-address-card-light {
+        border-radius: 20px !important;
+        padding: 30px 20px !important; 
+        width: 100% !important;
+        margin: 0 !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Shrinks the map height */
+    #location .premium-map-card-light {
+        border-radius: 20px !important;
+        min-height: 250px !important; 
+        width: 100% !important;
+        margin: 0 !important;
+        box-sizing: border-box !important;
+    }
+
+    /* =========================================
+       4. SHRINK THE OVERLAPPING ARROW
+    ========================================= */
+    .progress-wrap {
+        transform: scale(0.6) !important;
+        right: 10px !important;
+        bottom: 10px !important;
+        z-index: 9999 !important;
+    }
+}
+/* =========================================
+       5. SLIM DOWN THE SUBMIT BUTTON
+    ========================================= */
+    .agency-submit-btn {
+        padding: 12px 15px !important; /* Drastically reduces the top/bottom thickness */
+        font-size: 0.95rem !important; /* Slightly shrinks the text to fit the slimmer button */
+        border-radius: 12px !important; /* Makes the corners match the input boxes */
+        margin-top: 5px !important; /* Pulls it slightly closer to the message box */
+    }
+</style>
+
+
+<veepn-lock-screen><template shadowrootmode="open"><style>html{box-sizing:border-box;text-size-adjust:100%;word-break:normal;tab-size:4}*,:before,:after{background-repeat:no-repeat;box-sizing:border-box}:before,:after{text-decoration:inherit;vertical-align:inherit}*{padding:0;margin:0}hr{overflow:visible;height:0;color:inherit;border:0;border-top:1px solid}details,main{display:block}summary{display:list-item}small{font-size:80%}[hidden]{display:none!important}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}a{background-color:transparent}a:active,a:hover{outline-width:0}code,kbd,pre,samp{font-family:monospace}pre{font-size:1em}b,strong{font-weight:bolder}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-color:inherit;text-indent:0}iframe{border-style:none}input{border-radius:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{appearance:none}textarea{overflow:auto;resize:vertical}button,input,optgroup,select,textarea{font:inherit;color:inherit}optgroup{font-weight:700}button{overflow:visible}button,select{text-transform:none}button,[type=button],[type=reset],[type=submit],[role=button]{cursor:pointer}button::-moz-focus-inner,[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner{border-style:none;padding:0}button,html [type=button],[type=reset],[type=submit]{appearance:auto}button,input,select,textarea{background-color:transparent;border-style:none}button:-moz-focusring,[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner{outline:1px dotted ButtonText}select{appearance:none}a:focus,button:focus,input:focus,select:focus,textarea:focus{outline-width:0}select::-ms-expand{display:none}select::-ms-value{color:currentcolor}legend{border:0;color:inherit;display:table;white-space:normal;max-width:100%}::-webkit-file-upload-button{appearance:auto;color:inherit;font:inherit}[disabled]{cursor:default}img{border-style:none}progress{vertical-align:baseline}[aria-busy=true]{cursor:progress}[aria-controls]{cursor:pointer}[aria-disabled=true]{cursor:default}ul,ol{list-style-type:none}figure{margin:0}@keyframes slide-in{0%{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}.gradient-blue{background:radial-gradient(106.41% 128.47% at 50.15% 128.47%,#23abff,#3066ff)}.gradient-green{background:radial-gradient(92.26% 118.88% at 50.15% .13%,#00c3c3,#00aab3)}.gradient-purple{background:radial-gradient(165.12% 115.56% at 50.15% .13%,#a15aff,#00a0eb)}.bg-blue{background-color:#f2f5ff}.bg-purple{background-color:#f7f0ff}.bg-green{background-color:#ebffed}.lock-screen{font-family:FigtreeVF,sans-serif;letter-spacing:normal;position:fixed;z-index:2147483638;right:24px;bottom:24px;width:327px;border-radius:24px;overflow:hidden;box-shadow:0 24px 32px #00000014;animation:slide-in .3s ease-in-out forwards}.lock-screen__content{position:relative;padding:24px 24px 64px}.lock-screen__close{position:absolute;top:16px;right:16px;width:24px;height:24px;display:flex;align-items:center;justify-content:center;opacity:.5}.lock-screen__label{height:26px;width:fit-content;border-radius:50px;background-color:#fff3;padding-inline:16px;display:flex;align-items:center;justify-content:center;gap:8px;color:#fff;font-size:12px;line-height:18px;margin:-8px auto 16px}.lock-screen__title{color:#fff;text-align:center;font-size:20px;line-height:28px;font-weight:600;margin-bottom:8px}.lock-screen__description{color:#f5f6f7;text-align:center;font-size:14px;line-height:20px}.lock-screen__description b{font-weight:600}.lock-screen__card{position:relative;z-index:1;margin-top:-44px;background-color:#fff;border-radius:24px;padding:32px 20px 20px}.lock-screen__inner{margin-bottom:24px}.lock-screen__submit{display:flex;align-items:center;justify-content:center;gap:10px;font-weight:700;font-size:16px;height:40px;width:100%;border-radius:12px;padding-inline:16px;background-color:#f70;color:#fff;margin-bottom:16px}.lock-screen__skip{display:flex;align-items:center;justify-content:center;font-size:14px;line-height:20px;color:#82829c;margin-inline:auto}.price-card{border:1px solid #f2f2fc;background:linear-gradient(254.14deg,#fafbff .04%,#f5f8ff 100.04%);border-radius:24px;padding:24px 28px}.price-card__label{color:#4a5764;text-align:center;font-size:14px;line-height:20px;text-transform:uppercase;margin-bottom:16px}.price-card__price{display:flex;justify-content:center;align-items:flex-start;column-gap:2px;margin-bottom:12px}.price-card__currency{color:#515478;font-size:18px;line-height:28px}.price-card__number{color:#14142a;text-align:center;font-size:64px;line-height:54px}.price-card__wrap{display:flex;flex-direction:column}.price-card__decimal{color:#515478;font-size:18px;line-height:28px;font-weight:600}.price-card__period{color:#515478;font-size:14px;line-height:20px;margin-top:-6px}.price-card__discount{position:relative;display:flex;align-items:center;justify-content:center;margin-bottom:12px}.price-card__discount-divider{position:absolute;z-index:0;top:50%;left:0;width:100%;height:1px;background-color:#dbe2f9;transform:translateY(-50%)}.price-card__discount-icon{position:absolute;z-index:1;top:50%;left:50%;transform:translate(-50%,-50%)}.price-card__discount-text{position:relative;z-index:2;color:#fff;font-size:12px;font-weight:600;line-height:18px}.price-card__features{display:flex;align-items:center;justify-content:center;column-gap:16px}.price-card__feature{color:#222e3a;font-size:14px;line-height:20px;display:flex;align-items:center;gap:6px}.price-card__feature:before{content:"";display:block;width:4px;height:4px;background-color:#20df9e;border-radius:50%;flex-shrink:0}.features-list{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.features-list__item{display:flex;flex-direction:column;align-items:center;gap:6px}.features-list__icon{width:52px;height:52px;border-radius:12px;display:flex;align-items:center;justify-content:center}.features-list__text{color:#293a53;text-align:center;font-size:16px;line-height:24px;letter-spacing:-.1px}</style></template><style>@font-face{font-family:FigtreeVF;src:url(chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/fonts/FigtreeVF.woff2) format("woff2 supports variations"),url(chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/fonts/FigtreeVF.woff2) format("woff2-variations");font-weight:100 1000;font-display:swap}</style></veepn-lock-screen></body>
